@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - finaldialog
+  - Monster
+  - switch1
+  - beforefight
+  - playerAttack
+  - enterSecondNight
+  - enterThirdDay
+  - Final
+  - Fisrfight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1676525401
+    locked: 0
+  - name: Dialog
+    uniqueID: 4056700269
+    locked: 0
+  - name: Button
+    uniqueID: 2575578817
+    locked: 0
